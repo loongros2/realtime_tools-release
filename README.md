@@ -1,3 +1,26 @@
+## realtime_tools (jazzy) - 3.1.0-1
+
+The packages in the `realtime_tools` repository were released into the `jazzy` distro by running `/home/z572/gits/loongros2/venv/bin/bloom-release -r jazzy realtime_tools --override-release-repository-push-url git@github.com:loongros2/realtime_tools-release` on `Sun, 05 Jan 2025 03:25:15 -0000`
+
+The `realtime_tools` package was released.
+
+Version of package(s) in repository `realtime_tools`:
+
+- upstream repository: https://github.com/ros-controls/realtime_tools.git
+- release repository: https://github.com/loongros2/realtime_tools-release.git
+- rosdistro version: `3.1.0-1`
+- old version: `3.0.0-1`
+- new version: `3.1.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## realtime_tools (humble) - 2.10.0-1
 
 The packages in the `realtime_tools` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble realtime_tools` on `Mon, 16 Dec 2024 10:54:58 -0000`
